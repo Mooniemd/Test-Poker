@@ -1,0 +1,85 @@
+C:\Users\Aluno\Downloads\gente\obj\Debug\net8.0\gente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\gente\obj\Debug\net8.0\gente.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\gente\obj\Debug\net8.0\gente.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\gente\obj\Debug\net8.0\gente.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\gente\bin\Debug\net8.0\gente.exe
+C:\Users\Aluno\Downloads\gente\bin\Debug\net8.0\gente.deps.json
+C:\Users\Aluno\Downloads\gente\bin\Debug\net8.0\gente.runtimeconfig.json
+C:\Users\Aluno\Downloads\gente\bin\Debug\net8.0\gente.dll
+C:\Users\Aluno\Downloads\gente\bin\Debug\net8.0\gente.pdb
+C:\Users\Aluno\Downloads\gente\obj\Debug\net8.0\gente.dll
+C:\Users\Aluno\Downloads\gente\obj\Debug\net8.0\refint\gente.dll
+C:\Users\Aluno\Downloads\gente\obj\Debug\net8.0\gente.pdb
+C:\Users\Aluno\Downloads\gente\obj\Debug\net8.0\gente.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\gente\obj\Debug\net8.0\ref\gente.dll
+C:\Users\Aluno\Downloads\Lista-2\bin\Debug\net8.0\gente.exe
+C:\Users\Aluno\Downloads\Lista-2\bin\Debug\net8.0\gente.deps.json
+C:\Users\Aluno\Downloads\Lista-2\bin\Debug\net8.0\gente.runtimeconfig.json
+C:\Users\Aluno\Downloads\Lista-2\bin\Debug\net8.0\gente.dll
+C:\Users\Aluno\Downloads\Lista-2\bin\Debug\net8.0\gente.pdb
+C:\Users\Aluno\Downloads\Lista-2\obj\Debug\net8.0\gente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\Lista-2\obj\Debug\net8.0\gente.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\Lista-2\obj\Debug\net8.0\gente.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\Lista-2\obj\Debug\net8.0\gente.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Lista-2\obj\Debug\net8.0\gente.sourcelink.json
+C:\Users\Aluno\Downloads\Lista-2\obj\Debug\net8.0\gente.dll
+C:\Users\Aluno\Downloads\Lista-2\obj\Debug\net8.0\refint\gente.dll
+C:\Users\Aluno\Downloads\Lista-2\obj\Debug\net8.0\gente.pdb
+C:\Users\Aluno\Downloads\Lista-2\obj\Debug\net8.0\gente.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\Lista-2\obj\Debug\net8.0\ref\gente.dll
+C:\Users\Aluno\Downloads\Lista-3-main\bin\Debug\net8.0\gente.exe
+C:\Users\Aluno\Downloads\Lista-3-main\bin\Debug\net8.0\gente.deps.json
+C:\Users\Aluno\Downloads\Lista-3-main\bin\Debug\net8.0\gente.runtimeconfig.json
+C:\Users\Aluno\Downloads\Lista-3-main\bin\Debug\net8.0\gente.dll
+C:\Users\Aluno\Downloads\Lista-3-main\bin\Debug\net8.0\gente.pdb
+C:\Users\Aluno\Downloads\Lista-3-main\obj\Debug\net8.0\gente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\Lista-3-main\obj\Debug\net8.0\gente.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\Lista-3-main\obj\Debug\net8.0\gente.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\Lista-3-main\obj\Debug\net8.0\gente.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Lista-3-main\obj\Debug\net8.0\gente.dll
+C:\Users\Aluno\Downloads\Lista-3-main\obj\Debug\net8.0\refint\gente.dll
+C:\Users\Aluno\Downloads\Lista-3-main\obj\Debug\net8.0\gente.pdb
+C:\Users\Aluno\Downloads\Lista-3-main\obj\Debug\net8.0\gente.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\Lista-3-main\obj\Debug\net8.0\ref\gente.dll
+C:\Users\Aluno\Downloads\Lista-4-main\bin\Debug\net8.0\gente.exe
+C:\Users\Aluno\Downloads\Lista-4-main\bin\Debug\net8.0\gente.deps.json
+C:\Users\Aluno\Downloads\Lista-4-main\bin\Debug\net8.0\gente.runtimeconfig.json
+C:\Users\Aluno\Downloads\Lista-4-main\bin\Debug\net8.0\gente.dll
+C:\Users\Aluno\Downloads\Lista-4-main\bin\Debug\net8.0\gente.pdb
+C:\Users\Aluno\Downloads\Lista-4-main\obj\Debug\net8.0\gente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\Lista-4-main\obj\Debug\net8.0\gente.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\Lista-4-main\obj\Debug\net8.0\gente.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\Lista-4-main\obj\Debug\net8.0\gente.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Lista-4-main\obj\Debug\net8.0\gente.dll
+C:\Users\Aluno\Downloads\Lista-4-main\obj\Debug\net8.0\refint\gente.dll
+C:\Users\Aluno\Downloads\Lista-4-main\obj\Debug\net8.0\gente.pdb
+C:\Users\Aluno\Downloads\Lista-4-main\obj\Debug\net8.0\gente.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\Lista-4-main\obj\Debug\net8.0\ref\gente.dll
+C:\Users\Aluno\Downloads\Lista-6-main\bin\Debug\net8.0\gente.exe
+C:\Users\Aluno\Downloads\Lista-6-main\bin\Debug\net8.0\gente.deps.json
+C:\Users\Aluno\Downloads\Lista-6-main\bin\Debug\net8.0\gente.runtimeconfig.json
+C:\Users\Aluno\Downloads\Lista-6-main\bin\Debug\net8.0\gente.dll
+C:\Users\Aluno\Downloads\Lista-6-main\bin\Debug\net8.0\gente.pdb
+C:\Users\Aluno\Downloads\Lista-6-main\obj\Debug\net8.0\gente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\Lista-6-main\obj\Debug\net8.0\gente.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\Lista-6-main\obj\Debug\net8.0\gente.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\Lista-6-main\obj\Debug\net8.0\gente.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Lista-6-main\obj\Debug\net8.0\gente.dll
+C:\Users\Aluno\Downloads\Lista-6-main\obj\Debug\net8.0\refint\gente.dll
+C:\Users\Aluno\Downloads\Lista-6-main\obj\Debug\net8.0\gente.pdb
+C:\Users\Aluno\Downloads\Lista-6-main\obj\Debug\net8.0\gente.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\Lista-6-main\obj\Debug\net8.0\ref\gente.dll
+C:\Users\Meuca\OneDrive\Área de Trabalho\Poker-Teste\obj\Debug\net8.0\gente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meuca\OneDrive\Área de Trabalho\Poker-Teste\obj\Debug\net8.0\gente.AssemblyInfoInputs.cache
+C:\Users\Meuca\OneDrive\Área de Trabalho\Poker-Teste\obj\Debug\net8.0\gente.AssemblyInfo.cs
+C:\Users\Meuca\OneDrive\Área de Trabalho\Poker-Teste\obj\Debug\net8.0\gente.csproj.CoreCompileInputs.cache
+C:\Users\Meuca\OneDrive\Área de Trabalho\Poker-Teste\obj\Debug\net8.0\gente.dll
+C:\Users\Meuca\OneDrive\Área de Trabalho\Poker-Teste\obj\Debug\net8.0\refint\gente.dll
+C:\Users\Meuca\OneDrive\Área de Trabalho\Poker-Teste\obj\Debug\net8.0\gente.pdb
+C:\Users\Meuca\OneDrive\Área de Trabalho\Poker-Teste\bin\Debug\net8.0\gente.exe
+C:\Users\Meuca\OneDrive\Área de Trabalho\Poker-Teste\bin\Debug\net8.0\gente.deps.json
+C:\Users\Meuca\OneDrive\Área de Trabalho\Poker-Teste\bin\Debug\net8.0\gente.runtimeconfig.json
+C:\Users\Meuca\OneDrive\Área de Trabalho\Poker-Teste\bin\Debug\net8.0\gente.dll
+C:\Users\Meuca\OneDrive\Área de Trabalho\Poker-Teste\bin\Debug\net8.0\gente.pdb
+C:\Users\Meuca\OneDrive\Área de Trabalho\Poker-Teste\obj\Debug\net8.0\gente.genruntimeconfig.cache
+C:\Users\Meuca\OneDrive\Área de Trabalho\Poker-Teste\obj\Debug\net8.0\ref\gente.dll
