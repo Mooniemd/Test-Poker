@@ -1,12 +1,13 @@
-string? ganhou = "nao";
+bool ganhou = false;
 int fichas = 1;
 
 Console.WriteLine("Vamos jogar um jogo de poker?!");
-while (ganhou != "sim"){
+while (!ganhou){
   Console.WriteLine("Beleza! Escolha uma mão de poker, se ela for maior que a minha você vence!");
   Console.WriteLine("Aqui, usamos  seguinte regra: Digite '1' se você tiver um par, '2' se tiver dois pares e assim vai. Agora vamos lá! O que você tem?");
   int num = int.Parse(Console.ReadLine()!);
-
+    Console.Clear();
+  
   Random random = new Random();
   int randomNumber = random.Next(1, 10);
 
@@ -41,25 +42,28 @@ while (ganhou != "sim"){
   }
 
   if (num > randomNumber){
-    ganhou = "sim";
+    ganhou = true;
     fichas++;
     Console.WriteLine($"Você venceu! Toma aqui suas fichas. Agora você tem {fichas} fichas!");
-
 
     Console.WriteLine("Vai querer continuar apostando, ou vai manter o que você acumulou? (continuar / parar)");
     string? resposta = Console.ReadLine()!.ToLower();
 
     switch (resposta){
       case "continuar":
-        ganhou = "nao";
+        ganhou = false;
         break;
       case "parar":
+      if( fichas < 0){
+        Console.WriteLine($"Você joga muito mal... Você perdeu {fichas * -1} fichas!");
+      } else{
         Console.WriteLine($"Que chato você em... enfim, você acumulou um total de {fichas} fichas!");
-        break;
+      }
+      break;
     }
   }
   else if (num == randomNumber){
-    ganhou = "sim";
+    ganhou = true;
     fichas++;
     Console.WriteLine($"Ixi, a gente empatou! Pode pegar as fichas. Agora você tem {fichas} fichas!");
 
@@ -68,11 +72,16 @@ while (ganhou != "sim"){
 
     switch (resposta){
       case "continuar":
-        ganhou = "nao";
+        ganhou = false;
         break;
       case "parar":
+      Console.Write(fichas);
+      if( fichas < 0){
+        Console.WriteLine($"Você joga muito mal... Você perdeu {fichas * -1} fichas!");
+      } else{
         Console.WriteLine($"Que chato você em... enfim, você acumulou um total de {fichas} fichas!");
-        break;
+      }
+      break;
     }
   }
   else{

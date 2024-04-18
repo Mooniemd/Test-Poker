@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Meuca\\OneDrive\\Área de Trabalho\\Poker-Teste\\gente.csproj": {}
+    "C:\\Users\\Meuca\\OneDrive\\Documentos\\GitHub\\Test-Poker\\gente.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Meuca\\OneDrive\\Área de Trabalho\\Poker-Teste\\gente.csproj": {
+    "C:\\Users\\Meuca\\OneDrive\\Documentos\\GitHub\\Test-Poker\\gente.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Meuca\\OneDrive\\Área de Trabalho\\Poker-Teste\\gente.csproj",
+        "projectUniqueName": "C:\\Users\\Meuca\\OneDrive\\Documentos\\GitHub\\Test-Poker\\gente.csproj",
         "projectName": "gente",
-        "projectPath": "C:\\Users\\Meuca\\OneDrive\\Área de Trabalho\\Poker-Teste\\gente.csproj",
+        "projectPath": "C:\\Users\\Meuca\\OneDrive\\Documentos\\GitHub\\Test-Poker\\gente.csproj",
         "packagesPath": "C:\\Users\\Meuca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Meuca\\OneDrive\\Área de Trabalho\\Poker-Teste\\obj\\",
+        "outputPath": "C:\\Users\\Meuca\\OneDrive\\Documentos\\GitHub\\Test-Poker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Meuca\\AppData\\Roaming\\NuGet\\NuGet.Config"
